@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2DFB5CC78161063088EF7E49A1B91FD1",
+  "keywordClasses": [
+    {
+      "name": "com.automation.HandleWebDriver",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
